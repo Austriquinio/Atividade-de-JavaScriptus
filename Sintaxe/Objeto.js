@@ -15,8 +15,8 @@ let pessoa3 = {
 
 let produto = {
     nomeProduto: "Xadrez"
-    preco: 20.90
-    decricao: "Jogo de xadrez feito com madeira pura e base à imã."
+    preco: 20
+    descricao: "Jogo de xadrez feito com madeira pura e base à imã."
     marca: "ExNebulas"
 }
 
